@@ -54,19 +54,6 @@ I’m **Ziyoda**, a backend developer who enjoys building systems that are not o
 
 ---
 
-## 🧁 Featured Projects
-
-🌸 **E-commerce API**
-→ RESTful backend with authentication & payments
-
-💖 **CRM System**
-→ Client & sales management platform
-
-✨ **Chat Application**
-→ Real-time messaging backend logic
-
----
-
 ## 💌 Connect With Me
 
 <div align="center">
