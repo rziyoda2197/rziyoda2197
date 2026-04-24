@@ -1,70 +1,81 @@
-# 👋 Hi, I'm Ziyoda
+<div align="center">
 
-💻 **Backend Developer**
-🚀 Passionate about building scalable APIs & clean architecture
-🎯 Always learning and improving my skills
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=200&section=header&text=Hi,%20I'm%20Ziyoda%20💖&fontSize=40&fontColor=ffffff" />
 
----
-
-## 🧠 About Me
-
-Hi! I'm Ziyoda — a backend developer focused on building efficient, scalable, and clean web applications.
-
-* 🔭 Currently working with **Django & Django REST Framework**
-* 🌱 Learning **advanced backend architecture & system design**
-* 💡 Interested in **APIs, databases, and performance optimization**
-* ⚡ Goal: Become a strong **Backend Engineer**
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<div align="center">
 
-### 🚀 Backend & Core
+### 🌸 Backend Developer | Dreamer | Builder
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+💗 Building clean & scalable APIs
+🌷 Learning something new every day
+✨ Turning ideas into real projects
 
-### 🎨 Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### 🗄 Database
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🧁 About Me
 
-![Ziyoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=rziyoda2197\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rziyoda2197\&layout=compact\&theme=tokyonight)
-
----
-
-## 🚀 Projects
-
-* 🛒 **E-commerce API** – Django REST Framework asosida backend
-* 📊 **CRM System** – mijozlar va savdolarni boshqarish tizimi
-* 💬 **Chat Application** – real-time messaging (backend logic)
+```yaml
+name: Ziyoda
+role: Backend Developer
+focus: Django & DRF
+learning: System Design & Clean Architecture
+goal: Become a strong Backend Engineer 💪
+```
 
 ---
 
-## 📫 Contact Me
+## 💻 Tech Stack
 
-* 📧 Email: [your_email@gmail.com](mailto:your_email@gmail.com)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,bootstrap" />
+
+</div>
+
+---
+
+## 🌷 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rziyoda2197&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rziyoda2197&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
+
+</div>
+
+---
+
+## 🍓 Projects
+
+💖 E-commerce API — Django REST Framework
+🌸 CRM System — clean backend architecture
+✨ Chat App — backend logic & messaging
+
+---
+
+## 💌 Contact Me
+
 * 💬 Telegram: @your_username
+* 📧 Email: [rziyoda2197@gmail.com](mailto:rziyoda2197@gmail.com)
 
 ---
 
-## ✨ Fun Fact
+<div align="center">
 
-I enjoy turning complex problems into simple, clean solutions.
+🌷 *“Code with passion, build with love.”* 💗
+
+</div>
 
 ---
 
-⭐ **"Code. Learn. Build. Repeat."**
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=120&section=footer"/>
+
+</div>
