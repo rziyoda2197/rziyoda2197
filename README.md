@@ -61,7 +61,7 @@ goal: Become a strong Backend Engineer 💪
 
 ## 💌 Contact Me
 
-* 💬 Telegram: @your_username
+* 💬 Telegram: @Reyimbayevamm
 * 📧 Email: [rziyoda2197@gmail.com](mailto:rziyoda2197@gmail.com)
 
 ---
