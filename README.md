@@ -1,81 +1,89 @@
-<div align="center">
+# Ziyoda — Backend Engineer (Django/DRF)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=200&section=header&text=Hi,%20I'm%20Ziyoda%20💖&fontSize=40&fontColor=ffffff" />
+I design and build backend systems that are **reliable, performant, and easy to maintain**.
 
-</div>
-
----
-
-<div align="center">
-
-### 🌸 Backend Developer | Dreamer | Builder
-
-💗 Building clean & scalable APIs
-🌷 Learning something new every day
-✨ Turning ideas into real projects
-
-</div>
+**Focus:** Django, Django REST Framework, relational databases, clean architecture
+**Currently:** improving system design & performance optimization
+**Goal:** ship production-grade APIs with measurable impact
 
 ---
 
-## 🧁 About Me
+## 🚀 Featured Work
 
-```yaml
-name: Ziyoda
-role: Backend Developer
-focus: Django & DRF
-learning: System Design & Clean Architecture
-goal: Become a strong Backend Engineer 💪
-```
+### E-commerce API
 
----
+**What it is:** RESTful backend for products, carts, orders
+**Stack:** Django, DRF, PostgreSQL, JWT
+**Highlights:**
 
-## 💻 Tech Stack
+* Designed **auth + roles** (JWT, permissions)
+* Built **order/payment flow** (idempotent endpoints)
+* Optimized queries (select_related/prefetch) → **~40–60% fewer DB hits**
+* Pagination, filtering, search
+* Basic tests for core flows
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,bootstrap" />
-
-</div>
+**Repo:** https://github.com/your-username/ecommerce-api
+**Demo:** https://your-demo-link (if any)
 
 ---
 
-## 🌷 GitHub Stats
+### CRM System
 
-<div align="center">
+**What it is:** client & sales management backend
+**Stack:** Django, DRF, PostgreSQL
+**Highlights:**
 
-<img src="https://github-readme-stats.vercel.app/api?username=rziyoda2197&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rziyoda2197&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
+* CRUD + **advanced filtering** (date ranges, status)
+* **Aggregations & reports** (sales totals, trends)
+* Clean serializers & service-like separation
+* Permissions per role
 
-</div>
-
----
-
-## 🍓 Projects
-
-💖 E-commerce API — Django REST Framework
-🌸 CRM System — clean backend architecture
-✨ Chat App — backend logic & messaging
+**Repo:** https://github.com/your-username/crm-system
 
 ---
 
-## 💌 Contact Me
+### Chat Backend
 
-* 💬 Telegram: @Reyimbayevamm
-* 📧 Email: [rziyoda2197@gmail.com](mailto:rziyoda2197@gmail.com)
+**What it is:** messaging backend (core logic)
+**Stack:** Django, DRF (optionally Channels)
+**Highlights:**
+
+* Conversation & message models
+* Efficient message fetching (indexed queries)
+* (Optional) real-time via WebSockets
+
+**Repo:** https://github.com/your-username/chat-backend
 
 ---
 
-<div align="center">
+## 🧰 Tech
 
-🌷 *“Code with passion, build with love.”* 💗
-
-</div>
+* **Backend:** Python, Django, DRF
+* **DB:** PostgreSQL, SQLite
+* **API:** REST, JWT auth, pagination, filtering
+* **Practices:** clean architecture, query optimization, basic testing
+* **Tools:** Git, GitHub, Postman
 
 ---
 
-<div align="center">
+## 📈 What I Care About
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=120&section=footer"/>
+* **Correctness first**, then performance
+* Clear API contracts & predictable responses
+* Measurable improvements (latency, DB queries)
+* Code that others can read and extend
 
-</div>
+---
+
+## 📫 Contact
+
+* Telegram: @Reyimbayevamm
+* Email: [rziyoda2197@gmail.com](mailto:rziyoda2197@gmail.com)
+
+---
+
+## Notes
+
+* Replace repo/demo links with real ones
+* Add short GIF/screenshot per project (optional, 1–2 max)
+* Keep this page updated as you ship features
