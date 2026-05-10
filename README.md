@@ -1,10 +1,21 @@
-<!-- 🌸 PREMIUM AESTHETIC README FOR ZIYODA -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ziyoda&fontSize=80&fontColor=e94560&fontAlignY=38&desc=Backend%20Engineer&descAlignY=60&descSize=22&descColor=a8b2d8" width="100%"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:FFDEE9,100:B5FFFC&text=Ziyoda%20%F0%9F%92%96&fontSize=45&fontAlign=50&fontColor=ffffff&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.herokuapp.com?color=F78DA7&size=22&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%92%BB;Django+%7C+DRF+Lover+%F0%9F%8C%B8;Building+Clean+%26+Scalable+APIs+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%92%A1" />
+```
+██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗
+██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗
+██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║
+██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║
+██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝
+```
 
 </div>
 
@@ -12,69 +23,87 @@
 
 <div align="center">
 
-### ✨ Elegant Backend Developer
+### `> Building systems that think, scale, and endure.`
 
-🌸 Clean Code • Smart Architecture • Beautiful Logic
-
-</div>
-
----
-
-## 🩰 About Me
-
-<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="180"/>
-
-I’m **Ziyoda**, a backend developer who enjoys building systems that are not only functional, but also *clean, scalable, and elegant*.
-
-* 🌷 Working with **Django & Django REST Framework**
-* 🧠 Learning **System Design & Backend Architecture**
-* 💖 Love writing clean and readable code
-* 🚀 Dream: Become a **top-tier backend engineer**
-
----
-
-## 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,bootstrap&theme=light" />
+**Backend Engineer · Django Specialist · Clean Architecture Advocate**
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## About
+
+I'm a backend engineer focused on building systems that are not just functional — but **maintainable, scalable, and thoughtfully designed**. I believe good engineering is about making the right tradeoffs, writing code others can understand, and solving real problems with precision.
+
+Currently deepening my expertise in **distributed systems**, **API design**, and **system architecture** — with a long-term goal of engineering infrastructure that runs at scale.
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rziyoda2197&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rziyoda2197&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000" height="160"/>
+| Layer | Technologies |
+|---|---|
+| **Languages** | Python, JavaScript |
+| **Frameworks** | Django, Django REST Framework |
+| **Frontend** | HTML5, CSS3, Bootstrap |
+| **Database** | PostgreSQL, SQLite |
+| **Tools** | Git, Linux, Postman |
 
 </div>
 
 ---
 
-## 💌 Connect With Me
+## Focus Areas
+
+```python
+class ZiyodaRahimova:
+    
+    role = "Backend Engineer"
+    
+    currently_learning = [
+        "System Design & Distributed Architecture",
+        "High-performance API patterns",
+        "Database optimization & indexing",
+    ]
+    
+    principles = [
+        "Write code that speaks for itself",
+        "Design for the next engineer, not just the deadline",
+        "Every abstraction must earn its place",
+    ]
+    
+    goal = "Build backend systems trusted at scale"
+```
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<a href="https://t.me/Reyimbayevamm">
-  <img src="https://img.shields.io/badge/Telegram-F8C8DC?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rziyoda2197&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rziyoda2197&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<a href="mailto:rziyoda2197@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rziyoda2197&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌷 Little Philosophy
+## Contact
 
 <div align="center">
 
-*"Code is not just logic — it's a form of art."* 🎀
+If you're working on something interesting or want to discuss engineering — reach out.
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
 
@@ -82,6 +111,8 @@ I’m **Ziyoda**, a backend developer who enjoys building systems that are not o
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:B5FFFC,100:FFDEE9&section=footer"/>
+> *"Code is not just logic — it's a form of architecture."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
 
 </div>
