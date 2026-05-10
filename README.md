@@ -1,41 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ziyoda&fontSize=80&fontColor=e94560&fontAlignY=38&desc=Backend%20Engineer&descAlignY=60&descSize=22&descColor=a8b2d8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=220&section=header&text=Ziyoda&fontSize=90&fontColor=ffffff&fontAlignY=40&desc=Backend%20%26%20Fullstack%20Engineer&descAlignY=62&descSize=20&descColor=8b949e" width="100%"/>
 
 </div>
+
+<div align="center">
 
 <br/>
 
-<div align="center">
-
-```
-██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗
-██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗
-██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║
-██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║
-██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝
-╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝
-```
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+%26+Fullstack+Engineer;Django+%7C+DRF+%7C+Python+Specialist;Building+clean%2C+scalable+systems;From+database+to+UI+%E2%80%94+end+to+end.)
 
 </div>
 
 ---
 
-<div align="center">
+## whoami
 
-### `> Building systems that think, scale, and endure.`
+```bash
+$ cat profile.json
+```
 
-**Backend Engineer · Django Specialist · Clean Architecture Advocate**
-
-</div>
-
----
-
-## About
-
-I'm a backend engineer focused on building systems that are not just functional — but **maintainable, scalable, and thoughtfully designed**. I believe good engineering is about making the right tradeoffs, writing code others can understand, and solving real problems with precision.
-
-Currently deepening my expertise in **distributed systems**, **API design**, and **system architecture** — with a long-term goal of engineering infrastructure that runs at scale.
+```json
+{
+  "name": "Ziyoda",
+  "role": ["Backend Engineer", "Fullstack Developer"],
+  "stack": {
+    "backend":  ["Python", "Django", "Django REST Framework"],
+    "frontend": ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
+    "database": ["PostgreSQL", "SQLite"],
+    "tools":    ["Git", "Linux", "Postman", "VS Code"]
+  },
+  "currently_mastering": [
+    "System Design & Backend Architecture",
+    "RESTful API best practices",
+    "Fullstack project structure"
+  ],
+  "available_for": "Collaboration, open source, backend/fullstack projects",
+  "quote": "From database schema to pixel-perfect UI — I own the full stack."
+}
+```
 
 ---
 
@@ -43,76 +46,91 @@ Currently deepening my expertise in **distributed systems**, **API design**, and
 
 <div align="center">
 
-| Layer | Technologies |
-|---|---|
-| **Languages** | Python, JavaScript |
-| **Frameworks** | Django, Django REST Framework |
-| **Frontend** | HTML5, CSS3, Bootstrap |
-| **Database** | PostgreSQL, SQLite |
-| **Tools** | Git, Linux, Postman |
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Tools & Environment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## Focus Areas
+## What I Build
 
-```python
-class ZiyodaRahimova:
-    
-    role = "Backend Engineer"
-    
-    currently_learning = [
-        "System Design & Distributed Architecture",
-        "High-performance API patterns",
-        "Database optimization & indexing",
-    ]
-    
-    principles = [
-        "Write code that speaks for itself",
-        "Design for the next engineer, not just the deadline",
-        "Every abstraction must earn its place",
-    ]
-    
-    goal = "Build backend systems trusted at scale"
+```
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   CLIENT (Browser)                                  │
+│   └── HTML · CSS · JavaScript · Bootstrap           │
+│         │                                           │
+│         ▼                                           │
+│   API LAYER                                         │
+│   └── Django REST Framework · JSON · Auth           │
+│         │                                           │
+│         ▼                                           │
+│   BUSINESS LOGIC                                    │
+│   └── Django · Python · Views · Serializers         │
+│         │                                           │
+│         ▼                                           │
+│   DATA LAYER                                        │
+│   └── PostgreSQL · ORM · Migrations                 │
+│                                                     │
+│   ← I own every layer of this stack →               │
+└─────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rziyoda2197&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rziyoda2197&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=rziyoda2197&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rziyoda2197&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rziyoda2197&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## Contact
-
-<div align="center">
-
-If you're working on something interesting or want to discuss engineering — reach out.
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rziyoda2197&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
+## Connect
+
 <div align="center">
 
-> *"Code is not just logic — it's a form of architecture."*
+I'm open to backend/fullstack collaboration, project discussions, or just good engineering conversations.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+<br/>
+
+[![Telegram](https://img.shields.io/badge/Telegram-@username-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-write%20me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Backend logic. Frontend craft. Full ownership.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
