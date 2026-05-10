@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,27&height=280&section=header&text=Hi,%20I'm%20Ziyoda%20✨&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Backend%20%26%20Fullstack%20Developer%20%F0%9F%8C�&descSize=22&descAlignY=65&descColor=ffffffdd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,27&height=280&section=header&text=Hi,%20I'm%20Ziyoda%20🌸&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Backend%20%26%20Fullstack%20Developer%20💜&descSize=22&descAlignY=65&descColor=ffffffdd" width="100%"/>
 
 </div>
 
@@ -24,19 +24,20 @@
 
 ## 🌸 Men haqimda · About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" width="340" src="./ziyoda_banner.svg"/>
 
 ```python
 class Ziyoda:
 
     name     = "Ziyoda 🌷"
     location = "Uzbekistan 🇺🇿"
-    role     = ["Backend Developer", "Fullstack Developer"]
+    role     = ["Backend Developer",
+                "Fullstack Developer"]
 
     languages = ["Python 🐍", "JavaScript ✨"]
 
-    backend  = ["Django", "Django REST Framework", "PostgreSQL"]
-    frontend = ["HTML5", "CSS3", "JavaScript", "Bootstrap"]
+    backend  = ["Django", "DRF", "PostgreSQL"]
+    frontend = ["HTML5", "CSS3", "JS", "Bootstrap"]
 
     currently_learning = [
         "System Design & Architecture 🏗️",
@@ -45,12 +46,12 @@ class Ziyoda:
     ]
 
     loves = [
-        "Clean va o'qilishi oson kod yozish 💜",
-        "Chiroyli arxitektura loyihalash 🌸",
-        "Yangi texnologiyalarni o'rganish 📚",
+        "Clean kod yozish 💜",
+        "Chiroyli arxitektura 🌸",
+        "Yangi texnologiyalar 📚",
     ]
 
-    dream = "Top-tier backend engineer bo'lish 🚀"
+    dream = "Top-tier backend engineer 🚀"
 ```
 
 <br clear="right"/>
@@ -138,12 +139,12 @@ class Ziyoda:
 
 <div align="center">
 
-Hamkorlik, loyiha yoki shunchaki suhbat uchun — yozishingiz mumkin 🌸
+Hamkorlik, loyiha yoki shunchaki suhbat uchun yozishingiz mumkin 🌸
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Reyimbayevamm)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rziyoda2197)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rziyoda2197)
 
 </div>
@@ -157,10 +158,6 @@ Hamkorlik, loyiha yoki shunchaki suhbat uchun — yozishingiz mumkin 🌸
 > *"Kod — bu faqat mantiq emas, bu go'zallik san'ati."* 💜
 >
 > *"Code is not just logic — it's an art of beauty."*
-
-<br/>
-
-![Snake animation](https://raw.githubusercontent.com/rziyoda2197/rziyoda2197/output/github-contribution-grid-snake-dark.svg)
 
 <br/>
 
