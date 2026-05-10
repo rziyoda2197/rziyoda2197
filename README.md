@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,27&height=280&section=header&text=Hi,%20I'm%20Ziyoda%20🌸&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Backend%20%26%20Fullstack%20Developer%20💜&descSize=22&descAlignY=65&descColor=ffffffdd" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=E879A0&center=true&vCenter=true&width=700&lines=🌸+Backend+%26+Fullstack+Developer;🐍+Python+%7C+Django+%7C+DRF+Mutaxassisi;💡+Clean+Code+%7C+Smart+Architecture;🌷+Fullstack+dan+backendgacha+—+hammasini+bilaman;✨+Chiroyli+tizimlar+quruvchi+dasturchi)](https://git.io/typing-svg)
-
-</div>
+<img src="./ziyoda_banner.svg" width="100%"/>
 
 <br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=E879A0&center=true&vCenter=true&width=700&lines=🌸+Backend+%26+Fullstack+Developer;🐍+Python+%7C+Django+%7C+DRF+Mutaxassisi;💡+Clean+Code+%7C+Smart+Architecture;🌷+Fullstack+dan+backendgacha+—+hammasini+bilaman;✨+Chiroyli+tizimlar+quruvchi+dasturchi)](https://git.io/typing-svg)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rziyoda2197&color=e879a0&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/rziyoda2197?style=for-the-badge&color=e879a0&labelColor=1a1a2e)
@@ -93,15 +87,11 @@ class Ziyoda:
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rziyoda2197&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=e879a0&icon_color=e879a0&text_color=ffffff"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rziyoda2197&layout=compact&hide_border=true&bg_color=0d1117&title_color=e879a0&text_color=ffffff&langs_count=8"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rziyoda2197&hide_border=true&background=0d1117&ring=e879a0&fire=e879a0&currStreakLabel=e879a0"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rziyoda2197&hide_border=true&bg_color=0d1117&color=e879a0&line=e879a0&point=ffffff&area=true" width="100%"/>
 
@@ -158,9 +148,5 @@ Hamkorlik, loyiha yoki shunchaki suhbat uchun yozishingiz mumkin 🌸
 > *"Kod — bu faqat mantiq emas, bu go'zallik san'ati."* 💜
 >
 > *"Code is not just logic — it's an art of beauty."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,27&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
