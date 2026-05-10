@@ -1,0 +1,127 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0a2e"/>
+      <stop offset="50%" style="stop-color:#2d1457"/>
+      <stop offset="100%" style="stop-color:#1a0a2e"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e879a0"/>
+      <stop offset="100%" style="stop-color:#c026d3"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="400" height="300" fill="url(#bg)" rx="16"/>
+
+  <!-- Floating particles -->
+  <circle cx="30" cy="40" r="2" fill="#e879a0" opacity="0.6">
+    <animate attributeName="cy" values="40;20;40" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="370" cy="80" r="1.5" fill="#c026d3" opacity="0.7">
+    <animate attributeName="cy" values="80;60;80" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="60" cy="220" r="2" fill="#e879a0" opacity="0.5">
+    <animate attributeName="cy" values="220;200;220" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="340" cy="260" r="1.5" fill="#c026d3" opacity="0.6">
+    <animate attributeName="cy" values="260;240;260" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="20" r="1" fill="#e879a0" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="100" cy="280" r="1.5" fill="#c026d3" opacity="0.5">
+    <animate attributeName="cy" values="280;260;280" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="150" r="1" fill="#e879a0" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Laptop body -->
+  <rect x="110" y="120" width="180" height="110" rx="8" fill="#2a1a4a" stroke="#e879a0" stroke-width="1.5"/>
+  <rect x="118" y="128" width="164" height="90" rx="4" fill="#0d0d1a"/>
+
+  <!-- Screen content - code lines -->
+  <rect x="125" y="136" width="60" height="4" rx="2" fill="#e879a0" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.4;0.9" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="125" y="146" width="100" height="4" rx="2" fill="#c026d3" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;0.3;0.7" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="133" y="156" width="80" height="4" rx="2" fill="#7c3aed" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.4;0.8" dur="1.8s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="133" y="166" width="110" height="4" rx="2" fill="#e879a0" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0.9;0.6" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="125" y="176" width="40" height="4" rx="2" fill="#c026d3" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.3;0.8" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="125" y="186" width="90" height="4" rx="2" fill="#7c3aed" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="133" y="196" width="70" height="4" rx="2" fill="#e879a0" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Cursor blink -->
+  <rect x="205" y="196" width="6" height="4" rx="1" fill="#ffffff">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Laptop base -->
+  <rect x="90" y="230" width="220" height="10" rx="5" fill="#2a1a4a" stroke="#e879a0" stroke-width="1"/>
+  <rect x="175" y="228" width="50" height="4" rx="2" fill="#3d2060"/>
+
+  <!-- Floating icons around laptop -->
+  <!-- Python -->
+  <circle cx="75" cy="155" r="18" fill="#1e3a5f" stroke="#3776AB" stroke-width="1.5">
+    <animate attributeName="cy" values="155;145;155" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="75" y="160" text-anchor="middle" font-size="14" fill="#3776AB">🐍</text>
+
+  <!-- Django -->
+  <circle cx="325" cy="145" r="18" fill="#0a2e1a" stroke="#092E20" stroke-width="1.5">
+    <animate attributeName="cy" values="145;135;145" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="325" y="150" text-anchor="middle" font-size="13" fill="#44b78b">Dj</text>
+
+  <!-- HTML -->
+  <circle cx="75" cy="210" r="16" fill="#3a1a0a" stroke="#E34F26" stroke-width="1.5">
+    <animate attributeName="cy" values="210;200;210" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="75" y="215" text-anchor="middle" font-size="11" fill="#E34F26" font-weight="bold">HTML</text>
+
+  <!-- JS -->
+  <circle cx="325" cy="205" r="16" fill="#3a350a" stroke="#F7DF1E" stroke-width="1.5">
+    <animate attributeName="cy" values="205;195;205" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="325" y="210" text-anchor="middle" font-size="11" fill="#F7DF1E" font-weight="bold">JS</text>
+
+  <!-- Main title -->
+  <text x="200" y="55" text-anchor="middle" font-family="monospace" font-size="28" font-weight="bold" fill="white" filter="url(#glow)">Ziyoda 🌸</text>
+
+  <!-- Subtitle -->
+  <text x="200" y="80" text-anchor="middle" font-family="monospace" font-size="11" fill="#e879a0">Backend &amp; Fullstack Developer</text>
+
+  <!-- Decorative line -->
+  <line x1="80" y1="92" x2="320" y2="92" stroke="url(#pink)" stroke-width="1" opacity="0.5"/>
+
+  <!-- Tagline -->
+  <text x="200" y="108" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#a78bfa">✨ Clean Code · Smart Architecture · Beautiful Logic ✨</text>
+
+  <!-- Bottom decoration -->
+  <text x="200" y="272" text-anchor="middle" font-family="monospace" font-size="9" fill="#e879a080">💜 from database to UI — full ownership 💜</text>
+
+  <!-- Corner flowers -->
+  <text x="15" y="25" font-size="14">🌸</text>
+  <text x="368" y="25" font-size="14">🌷</text>
+  <text x="15" y="292" font-size="14">✨</text>
+  <text x="368" y="292" font-size="14">💜</text>
+</svg>
