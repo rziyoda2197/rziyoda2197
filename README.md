@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ziyoda&fontSize=100&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Backend%20%26%20Fullstack%20Engineer&descSize=22&descAlignY=67&descColor=ffffffcc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,27&height=280&section=header&text=Hi,%20I'm%20Ziyoda%20✨&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=42&desc=Backend%20%26%20Fullstack%20Developer%20%F0%9F%8C�&descSize=22&descAlignY=65&descColor=ffffffdd" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=700&lines=👩‍💻+Backend+%26+Fullstack+Developer;🐍+Python+%7C+Django+%7C+DRF+Mutaxassisi;🌐+Frontend+dan+Backendgacha+—+to'liq+stack;🚀+Clean+Code+%7C+Smart+Architecture;✨+Tizimlar+qurayapman+—+ishonchli+va+go'zal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=E879A0&center=true&vCenter=true&width=700&lines=🌸+Backend+%26+Fullstack+Developer;🐍+Python+%7C+Django+%7C+DRF+Mutaxassisi;💡+Clean+Code+%7C+Smart+Architecture;🌷+Fullstack+dan+backendgacha+—+hammasini+bilaman;✨+Chiroyli+tizimlar+quruvchi+dasturchi)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,38 +14,43 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=rziyoda2197&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/rziyoda2197?style=for-the-badge&color=a855f7&labelColor=1a1a2e)
-![GitHub stars](https://img.shields.io/github/stars/rziyoda2197?style=for-the-badge&color=a855f7&labelColor=1a1a2e)
+![Profile Views](https://komarev.com/ghpvc/?username=rziyoda2197&color=e879a0&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/rziyoda2197?style=for-the-badge&color=e879a0&labelColor=1a1a2e)
+![GitHub stars](https://img.shields.io/github/stars/rziyoda2197?style=for-the-badge&color=e879a0&labelColor=1a1a2e)
 
 </div>
 
 ---
 
-## 🧬 Men haqimda · About Me
+## 🌸 Men haqimda · About Me
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 ```python
 class Ziyoda:
 
-    name     = "Ziyoda"
+    name     = "Ziyoda 🌷"
     location = "Uzbekistan 🇺🇿"
-    role     = ["Backend Engineer", "Fullstack Developer"]
+    role     = ["Backend Developer", "Fullstack Developer"]
 
-    languages = ["Python 🐍", "JavaScript ⚡"]
+    languages = ["Python 🐍", "JavaScript ✨"]
 
     backend  = ["Django", "Django REST Framework", "PostgreSQL"]
     frontend = ["HTML5", "CSS3", "JavaScript", "Bootstrap"]
 
     currently_learning = [
         "System Design & Architecture 🏗️",
-        "Advanced API patterns 🔌",
+        "Advanced REST API patterns 🔌",
         "Database optimization ⚙️",
     ]
 
-    fun_fact = "Men uchun kod — bu mantiq emas, san'at 🎨"
-    goal     = "Top-tier backend engineer bo'lish 🚀"
+    loves = [
+        "Clean va o'qilishi oson kod yozish 💜",
+        "Chiroyli arxitektura loyihalash 🌸",
+        "Yangi texnologiyalarni o'rganish 📚",
+    ]
+
+    dream = "Top-tier backend engineer bo'lish 🚀"
 ```
 
 <br clear="right"/>
@@ -69,7 +74,7 @@ class Ziyoda:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🔧 Tools & Environment
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -80,58 +85,62 @@ class Ziyoda:
 
 ---
 
-## 📊 GitHub Statistika · GitHub Stats
+## 📊 GitHub Statistika
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rziyoda2197&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rziyoda2197&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rziyoda2197&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=e879a0&icon_color=e879a0&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rziyoda2197&layout=compact&hide_border=true&bg_color=0d1117&title_color=e879a0&text_color=ffffff&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rziyoda2197&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7"/>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=rziyoda2197&hide_border=true&background=0d1117&ring=e879a0&fire=e879a0&currStreakLabel=e879a0"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rziyoda2197&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=a855f7&point=ffffff&area=true" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rziyoda2197&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rziyoda2197&hide_border=true&bg_color=0d1117&color=e879a0&line=e879a0&point=ffffff&area=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🌱 Hozir o'rganayapman · Currently Learning
+## 🏆 Trophies
 
 <div align="center">
 
-| 📚 Mavzu | 🎯 Daraja | 🔥 Status |
+<img src="https://github-profile-trophy.vercel.app/?username=rziyoda2197&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+
+</div>
+
+---
+
+## 🌱 Hozir o'rganayapman
+
+<div align="center">
+
+| 🌸 Mavzu | ⭐ Daraja | 🔥 Status |
 |---|---|---|
-| System Design & Architecture | ⭐⭐⭐ | 🟡 In Progress |
-| Django Advanced Patterns | ⭐⭐⭐⭐ | 🟢 Active |
-| REST API Best Practices | ⭐⭐⭐⭐ | 🟢 Active |
-| PostgreSQL Optimization | ⭐⭐⭐ | 🟡 In Progress |
-| JavaScript Deep Dive | ⭐⭐⭐ | 🟡 In Progress |
+| System Design & Architecture | ⭐⭐⭐ | 🟡 Jarayonda |
+| Django Advanced Patterns | ⭐⭐⭐⭐ | 🟢 Aktiv |
+| REST API Best Practices | ⭐⭐⭐⭐ | 🟢 Aktiv |
+| PostgreSQL Optimization | ⭐⭐⭐ | 🟡 Jarayonda |
+| JavaScript Deep Dive | ⭐⭐⭐ | 🟡 Jarayonda |
 
 </div>
 
 ---
 
-## 📬 Bog'lanish · Connect With Me
+## 💌 Bog'lanish · Connect With Me
 
 <div align="center">
+
+Hamkorlik, loyiha yoki shunchaki suhbat uchun — yozishingiz mumkin 🌸
+
+<br/>
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
@@ -143,20 +152,18 @@ class Ziyoda:
 
 <div align="center">
 
-### 💜 Falsafa · Philosophy
+### 🌷 Falsafa
 
-> *"Kod — bu faqat mantiq emas, bu me'morchilik san'ati."*
+> *"Kod — bu faqat mantiq emas, bu go'zallik san'ati."* 💜
 >
-> *"Code is not just logic — it's the art of architecture."*
+> *"Code is not just logic — it's an art of beauty."*
 
 <br/>
 
 ![Snake animation](https://raw.githubusercontent.com/rziyoda2197/rziyoda2197/output/github-contribution-grid-snake-dark.svg)
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,27&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
